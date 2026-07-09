@@ -22,3 +22,6 @@
 ### 📊 My GitHub Stats:
 ![Suvinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvinson&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suvinson&theme=radical)
+
+### 📄 Resume:
+[![Resume](https://img.shields.io/badge/-Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/suvinson/suvinson/main/Suvinson_Resume.pdf)
