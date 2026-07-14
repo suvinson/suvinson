@@ -1,7 +1,7 @@
 ### Hello 👋, I'm Suvinson
 
 - 🔭 I'm pursuing: **B.Sc. Computer Science**
-- 💻 Currently interning as: **Full Stack Developer @ Bevywise Networks**
+- 💻 Completed intership : **Full Stack Developer @ Bevywise Networks**
 - 🌱 I'm currently learning: **Spring Boot, System Design**
 - 🎯 Daily Challenge: I solve at least one LeetCode problem every day
 - 📫 Ask me about: Java, Spring Boot, Full Stack Development
