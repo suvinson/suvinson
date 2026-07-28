@@ -33,7 +33,7 @@
 
 ### 🥧 My Programming Languages
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suvinson&theme=radical" />
 </p>
 
