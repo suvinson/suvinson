@@ -19,11 +19,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvinson12/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/LUoJd2qgzz/)
 
-### 👀 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=suvinson&color=blueviolet&style=for-the-badge)
-
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=suvinson&theme=radical&no-frame=true&row=1&column=6)](https://github.com/suvinson)
 
 ### 📊 My GitHub Stats:
 ![Suvinson's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=suvinson&show_icons=true&theme=radical)
