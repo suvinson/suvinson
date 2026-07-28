@@ -34,7 +34,7 @@
 ### 🥧 My Programming Languages
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suvinson&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvinson&theme=radical&layout=compact&langs_count=8&hide_border=true&count_private=true" />
 </p>
 
 ### 🔥 GitHub Streak:
