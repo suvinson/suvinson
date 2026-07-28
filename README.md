@@ -1,7 +1,7 @@
 ### Hello 👋, I'm Suvinson
 
 - 🔭 I'm pursuing: **B.Sc. Computer Science**
-- 💻 Completed intership : **Full Stack Developer @ Bevywise Networks**
+- 💻 Completed internship: **Full Stack Developer @ Bevywise Networks**
 - 🌱 I'm currently learning: **Spring Boot, System Design**
 - 🎯 Daily Challenge: I solve at least one LeetCode problem every day
 - 📫 Ask me about: Java, Spring Boot, Full Stack Development
@@ -19,9 +19,16 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvinson12/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/LUoJd2qgzz/)
 
+### 👀 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=suvinson&color=blueviolet&style=for-the-badge)
+
+### 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=suvinson&theme=radical&no-frame=true&row=1&column=6)](https://github.com/suvinson)
+
 ### 📊 My GitHub Stats:
 ![Suvinson's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=suvinson&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suvinson&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suvinson&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=suvinson&theme=radical)
 
 ### 📄 Resume:
 [![Resume](https://img.shields.io/badge/-Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/suvinson/suvinson/main/Suvinson_Resume.pdf)
