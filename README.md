@@ -32,7 +32,7 @@
 ![Suvinson's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=suvinson&show_icons=true&theme=radical)
 
 ### 🥧 My Programming Languages:
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-langs-by-repo?username=suvinson&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suvinson&layout=donut&theme=radical&hide_border=true&size_weight=0&count_weight=1&exclude_repo=Python_code)
 
 ### 🔥 GitHub Streak:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=suvinson&theme=radical)
