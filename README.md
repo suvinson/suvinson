@@ -31,10 +31,10 @@
 ### 📊 My GitHub Stats:
 ![Suvinson's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=suvinson&show_icons=true&theme=radical)
 
-### 🥧 Programming Languages
+### 🥧 My Programming Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvinson&layout=pie&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suvinson&theme=radical" />
 </p>
 
 ### 🔥 GitHub Streak:
