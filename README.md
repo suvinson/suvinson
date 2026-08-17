@@ -43,4 +43,4 @@
 ---
 
 ### 📄 Resume:
-[![Resume](https://img.shields.io/badge/-Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Software_Engineer.pdf)(https://raw.githubusercontent.com/suvinson/suvinson/main/Suvinson_Software_Engineer.pdf)
+[![Resume](https://img.shields.io/badge/-Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Software_Engineer.pdf)
